@@ -1,0 +1,2 @@
+# Online-food-delivery-system
+This project includes the ordering of the food dishes from the restaurant, allocating the order delivery to the delivery boy and also keeping the history of the previous history of the orders placed by the users.  Here user first can choose the items from the cart that he wants to order, also with the quantities of the items and then place the order by filling the requirement details. And then further delivery related things are done by delivery boys under the supervision of the manager.
