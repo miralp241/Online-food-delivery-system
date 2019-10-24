@@ -103,7 +103,7 @@
 	<p></p><p>
 	<div class="container">
     <p>
-        <span class="message"><p class="message">Registering as a star member will provide free delivery on all orders for a year.<p class="message">Avail star membership at Rs. 600/year.</span>
+        <span class="message"><p class="message">Registering as a star member will provide free delivery on all orders for a year.<p class="message">Avail star membership at Rs. 900/year.</span>
         <p>
         <button class="btn btn-primary" id="star" style="margin-left:3em" id="buystar">Buy membership</button>
         
